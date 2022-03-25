@@ -1,3 +1,5 @@
+#Coded By denyz427 on 25th March 2022 find me at https://github.com/denyz427
+
 //defining frequency of the Current_notes for music player
 #define NOTE_B0  31
 #define NOTE_C1  33
